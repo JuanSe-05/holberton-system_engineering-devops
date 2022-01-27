@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 755 g+wX .  
+chmod 755 $(find -typed)   
