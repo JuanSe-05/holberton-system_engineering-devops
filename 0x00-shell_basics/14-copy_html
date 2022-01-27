@@ -1,2 +1,2 @@
 #!/bin/bash
-cp .html files /holberton-S_E_D
+cp ./*.html .. 
