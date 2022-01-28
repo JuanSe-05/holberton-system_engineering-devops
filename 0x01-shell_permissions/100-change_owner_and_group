@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown -R  vincent:staff holberton-S_E_D
+sudo chown -R  vincent:staff /holberton-S_E_D/0x01-shell_permissions
