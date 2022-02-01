@@ -1,1 +1,1 @@
-task 0 Create a script that creates an alias
+Project about Shell, init files, variables and expansions
